@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-26T21:28:14 IST" name="Default suite" finished-at="2022-06-26T21:28:14 IST" duration-ms="32">
+    <groups>
+    </groups>
+    <test started-at="2022-06-26T21:28:14 IST" name="Default test" finished-at="2022-06-26T21:28:14 IST" duration-ms="32">
+      <class name="myPackage.TestNG1">
+        <test-method is-config="true" signature="a4()[pri:0, instance:myPackage.TestNG1@3b6ddd1d]" started-at="2022-06-26T21:28:14 IST" name="a4" finished-at="2022-06-26T21:28:14 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a4 -->
+        <test-method is-config="true" signature="a3()[pri:0, instance:myPackage.TestNG1@3b6ddd1d]" started-at="2022-06-26T21:28:14 IST" name="a3" finished-at="2022-06-26T21:28:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a3 -->
+        <test-method is-config="true" signature="a3333()[pri:0, instance:myPackage.TestNG1@3b6ddd1d]" started-at="2022-06-26T21:28:14 IST" name="a3333" finished-at="2022-06-26T21:28:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a3333 -->
+        <test-method is-config="true" signature="a33()[pri:0, instance:myPackage.TestNG1@3b6ddd1d]" started-at="2022-06-26T21:28:14 IST" name="a33" finished-at="2022-06-26T21:28:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a33 -->
+        <test-method signature="a1()[pri:0, instance:myPackage.TestNG1@3b6ddd1d]" started-at="2022-06-26T21:28:14 IST" name="a1" finished-at="2022-06-26T21:28:14 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+        <test-method is-config="true" signature="a333()[pri:0, instance:myPackage.TestNG1@3b6ddd1d]" started-at="2022-06-26T21:28:14 IST" name="a333" finished-at="2022-06-26T21:28:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a333 -->
+        <test-method signature="a2()[pri:0, instance:myPackage.TestNG1@3b6ddd1d]" started-at="2022-06-26T21:28:14 IST" name="a2" finished-at="2022-06-26T21:28:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a2 -->
+        <test-method is-config="true" signature="a33()[pri:0, instance:myPackage.TestNG1@3b6ddd1d]" started-at="2022-06-26T21:28:14 IST" name="a33" finished-at="2022-06-26T21:28:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a33 -->
+        <test-method is-config="true" signature="a333()[pri:0, instance:myPackage.TestNG1@3b6ddd1d]" started-at="2022-06-26T21:28:14 IST" name="a333" finished-at="2022-06-26T21:28:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a333 -->
+        <test-method is-config="true" signature="a33333()[pri:0, instance:myPackage.TestNG1@3b6ddd1d]" started-at="2022-06-26T21:28:14 IST" name="a33333" finished-at="2022-06-26T21:28:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a33333 -->
+        <test-method is-config="true" signature="a333333()[pri:0, instance:myPackage.TestNG1@3b6ddd1d]" started-at="2022-06-26T21:28:14 IST" name="a333333" finished-at="2022-06-26T21:28:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a333333 -->
+        <test-method is-config="true" signature="a3333335()[pri:0, instance:myPackage.TestNG1@3b6ddd1d]" started-at="2022-06-26T21:28:14 IST" name="a3333335" finished-at="2022-06-26T21:28:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a3333335 -->
+      </class> <!-- myPackage.TestNG1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
